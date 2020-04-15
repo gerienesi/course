@@ -1,5 +1,12 @@
 # Course APP
 
+### Tested with Python 3.6.5 
+
+#### Install dependencies
+```
+pip install -r requirements.txt
+```
+
 #### Run migrations
 ```
 python manage.py migrate
