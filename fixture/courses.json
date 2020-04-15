@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Python Fundamentals",
+    "description": "Start learning Python"
+  },
+  {
+    "name": "Java Fundamentals",
+    "description": "Start learning Java"
+  },
+  {
+    "name": ".NET Fundamentals",
+    "description": "Start learning .NET"
+  }
+]

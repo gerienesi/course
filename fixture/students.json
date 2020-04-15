@@ -1,0 +1,38 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "johndoe@gmail.com",
+    "gender": 0,
+    "dob": "1994-02-25",
+    "cell_phone_number": 123456789,
+    "home_phone_number": 12345678
+  },
+  {
+    "first_name": "Mario",
+    "last_name": "Speedwagon",
+    "email": "mariospeedwagon@gmail.com",
+    "gender": 0,
+    "dob": "1993-01-11",
+    "cell_phone_number": 1234156789,
+    "home_phone_number": 123415678
+  },
+  {
+    "first_name": "Petey",
+    "last_name": "Cruiser",
+    "email": "peteycruiser@gmail.com",
+    "gender": 0,
+    "dob": "1991-01-12",
+    "cell_phone_number": 10234156789,
+    "home_phone_number": 1203415678
+  },
+  {
+    "first_name": "Anna",
+    "last_name": "Sthesia",
+    "email": "annasthesia@gmail.com",
+    "gender": 0,
+    "dob": "1990-01-20",
+    "cell_phone_number": 12341556789,
+    "home_phone_number": 1238415678
+  }
+]
