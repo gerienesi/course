@@ -2,6 +2,11 @@
 
 ### Tested with Python 3.6.5 
 
+### Create virtualenv 
+```
+virtualenv -p python3 env_name
+```
+
 #### Install dependencies
 ```
 pip install -r requirements.txt
